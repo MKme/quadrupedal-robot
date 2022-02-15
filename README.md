@@ -9,6 +9,8 @@ Support this project and become a patron on <a href="https://www.patreon.com/Eri
 Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 </p>
 
+<img src="https://github.com/MKme/quadrupedal-robot/blob/main/Photos/IMG_3186.jpg" width="700"/>
+
 # quadrupedal-robot
 SpotMicro quadrupedal 3D printed robot project  
 
