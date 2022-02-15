@@ -14,8 +14,6 @@ SpotMicro quadrupedal 3D printed robot project
 
 I will produce videos on the build as we go but you can also find updates at my Forum thread outlining the build:  https://forum.mkme.org/viewtopic.php?f=49&p=1524&sid=b94a2095b1fca7b5eba230f6c5f117bb#p1524
 
-Official site here https://novaspotmicro.com/
-
 
 ## Parts Used
 All the parts Ive used to build the robot and upgrades I have added.  Full BOM and links:
@@ -39,3 +37,4 @@ All the parts Ive used to build the robot and upgrades I have added.  Full BOM a
 | 
 | 
 
+Official site for the parent variation here https://novaspotmicro.com/
