@@ -12,7 +12,7 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 # quadrupedal-robot
 SpotMicro quadrupedal 3D printed robot project  
 
-My Forum thread outlining the build:  
+I will produce videos on the build as we go but you can also find updates at my Forum thread outlining the build:  https://forum.mkme.org/viewtopic.php?f=49&p=1524&sid=b94a2095b1fca7b5eba230f6c5f117bb#p1524
 
 Official site here https://novaspotmicro.com/
 
